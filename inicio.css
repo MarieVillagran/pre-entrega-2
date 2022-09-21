@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html, body{
+    height: 100%;
+}
+
+h2 {
+    text-align: center;
+    color: darkmagenta;
+ 
+}
+.imagen {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+
+
+}
+
+.bg-color{
+    background-color:#aa55aa; ;
+}
+
+/*a{
+    padding: 3px;
+    border: 1px darkmagenta solid;
+    text-decoration: none;
+    border-radius: 4px;}*/
